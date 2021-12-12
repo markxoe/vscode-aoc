@@ -2,7 +2,7 @@
 
 The Advent of code gets a little easier with this extension.
 
-![Demo](.github/assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/markxoe/vscode-aoc/master/assets/demo.gif)
 
 ## Features
 

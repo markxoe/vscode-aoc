@@ -2,7 +2,14 @@
   "name": "advent-of-code",
   "displayName": "Advent of code",
   "description": "The unofficial Advent of code companion extension",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "markxoe",
+  "repository": {
+    "url": "https://github.com/markxoe/vscode-aoc/"
+  },
+  "bugs": {
+    "url": "https://github.com/markxoe/vscode-aoc/issues"
+  },
   "engines": {
     "vscode": "^1.63.0"
   },
@@ -75,5 +82,6 @@
     "axios": "^0.24.0",
     "moment": "^2.29.1",
     "url-parse": "^1.5.3"
-  }
+  },
+  "icon": "assets/icon.png"
 }
