@@ -12,6 +12,10 @@ Currently this extension can only
 
 ## Release Notes
 
+### 1.0.1
+
+Fix Timezone issues
+
 ### 1.0.0
 
 Initial release :rocket:

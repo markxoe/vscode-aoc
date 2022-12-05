@@ -2,7 +2,7 @@
   "name": "advent-of-code",
   "displayName": "Advent of code",
   "description": "The unofficial Advent of code companion extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "markxoe",
   "repository": {
     "url": "https://github.com/markxoe/vscode-aoc/"
